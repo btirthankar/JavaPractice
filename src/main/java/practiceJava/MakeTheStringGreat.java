@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 
 // https://leetcode.com/problems/make-the-string-great/description/
 

@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 
 // https://leetcode.com/problems/percentage-of-letter-in-string/
 

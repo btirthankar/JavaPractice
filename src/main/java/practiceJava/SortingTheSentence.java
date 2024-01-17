@@ -1,10 +1,9 @@
-package PracticeJava;
+package practiceJava;
 
 // https://leetcode.com/problems/sorting-the-sentence/
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class SortingTheSentence {
 

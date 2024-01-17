@@ -1,7 +1,8 @@
-package PracticeJava;
+package practiceJava;
 
 public class BinarySearch {
     public static void main(String[] args) {
+        int[] aa = new int[5];
         int[] arr = {1,4,6,7,12,45,34,56,75,84};
         System.out.println(binarySearch(arr, 56));
     }

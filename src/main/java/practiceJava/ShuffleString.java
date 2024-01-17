@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 
 // https://leetcode.com/problems/shuffle-string/description/
 public class ShuffleString {
