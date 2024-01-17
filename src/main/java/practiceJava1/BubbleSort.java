@@ -1,4 +1,4 @@
-package practiceJava;
+package practiceJava1;
 
 public class BubbleSort {
     public static void main(String[] args) {

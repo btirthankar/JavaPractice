@@ -1,4 +1,4 @@
-package practiceJava;
+package practiceJava1;
 
 import java.util.HashMap;
 // https://leetcode.com/problems/jewels-and-stones/

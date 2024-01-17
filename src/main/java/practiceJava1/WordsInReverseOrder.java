@@ -1,4 +1,4 @@
-package practiceJava;
+package practiceJava1;
 
 public class WordsInReverseOrder {
     public static void main(String[] args) {
