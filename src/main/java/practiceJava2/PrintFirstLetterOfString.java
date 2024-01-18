@@ -4,7 +4,7 @@ public class PrintFirstLetterOfString
 {
     public static void main (String[] args)
     {
-        String str = "Hello I am Japneet";
+        String str = "Hello I am Tirthankar";
         returnFirstAlphabet(str);
     }
 

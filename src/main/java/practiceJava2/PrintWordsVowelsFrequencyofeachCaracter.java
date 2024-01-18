@@ -7,7 +7,7 @@ public class PrintWordsVowelsFrequencyofeachCaracter
 {
     public static void main (String [] args)
     {
-        String str =    "Learn with Japneet Sachdeva";
+        String str =    "Learn with Tirthankar Bhattacharya";
         printAllCharacters(str);
     }
 

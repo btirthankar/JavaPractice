@@ -4,7 +4,7 @@ public class ChangeSpecialCharacter
 {
     public static void main (String[] args)
     {
-        String str = "Hello @Japneet";
+        String str = "Hello @Tirthankar";
 
         System.out.print(printDifferentSpeicalCharacter(str));
     }
